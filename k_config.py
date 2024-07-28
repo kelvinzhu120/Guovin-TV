@@ -13,6 +13,7 @@ favorite_list = [
     "浙江卫视",
     "湖南卫视",
     "翡翠台",
+    "美亞電影台",
 ]
 open_online_search = True
 favorite_page_num = 5
